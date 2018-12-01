@@ -104,7 +104,7 @@ nWifi=50
 ```
 Vários arquivos .dat serão gerados com os resultados de simulação conforme o valor do nWifi e tipo de tráfego.
 
-Os resultados dessas simulações e testes foram publicadas em formato de artigo no SBRC 2017. Segue o link do artigo para maiores informações: (artigo SBRC)[https://sbrc2017.ufpa.br/downloads/trilha-principal/ST16_02.pdf]. 
+Os resultados obtidos com o SANTE-System foram publicadas em formato de artigo no SBRC 2017. Segue o link do artigo para maiores informações: [artigo SBRC](https://sbrc2017.ufpa.br/downloads/trilha-principal/ST16_02.pdf). Caso você quiser mais detalhes, tem o documento da minha dissertação de mestrado também [aqui](https://acervodigital.ufpr.br/bitstream/handle/1884/47989/R%20-%20D%20-%20ANDRESSA%20VERGUTZ%20.pdf?sequence=1).
 
 Bons testes!
 
